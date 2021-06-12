@@ -1,4 +1,1 @@
-from django.contrib.auth.models import AbstractUser
-
-class User(AbstractUser):
-    pass
+# Implement custom User model here, if necessary.
